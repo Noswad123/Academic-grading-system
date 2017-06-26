@@ -1,0 +1,26 @@
+.single{
+  position:absolute;
+  top: 100px;
+left: 100px;
+}
+.final{
+  position:absolute;
+  top: 100px;
+  right: 100px;
+}
+
+#myText{
+
+  width:500px;
+}
+#single{
+  position:relative;
+  width:500px;
+
+}
+#final{
+  position:relative;
+  width:500px;
+
+
+}
